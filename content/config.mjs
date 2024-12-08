@@ -9,5 +9,7 @@ export default {
   domain:"zongxi.xyz",
   defaultAuthor:"zongxi",
   showSidebar:true,
-  
+  search: {
+    provider: "kbar",
+  },
 };
